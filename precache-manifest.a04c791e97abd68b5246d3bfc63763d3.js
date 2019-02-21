@@ -592,7 +592,7 @@ self.__precacheManifest = [
     "url": "/static/media/youtube-jesus-christ-denies-bizarre-sexual-misconduct-allegations-pewdiepie-abuse.d5b9798e.jpg"
   },
   {
-    "revision": "b68adef054ccc2100fa62599f137f0e1",
+    "revision": "0bd01fbfab33df68c253a849134874b4",
     "url": "/index.html"
   }
 ];
