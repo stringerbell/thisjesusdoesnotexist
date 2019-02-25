@@ -71,6 +71,7 @@ const list = [
   'teachings-of-Jesus-og.jpg',
   'Trinity1.jpg',
   'unnamed.jpg',
+  'unnamed2.jpg',
   'white-jesus.jpg',
   'Why-is-Jesus-Christ-Important-in-My-Life-main-1138511.jpg',
   'www-St-Takla-org___Holy-Face-of-Jesus-22.jpg',
