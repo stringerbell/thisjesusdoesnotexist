@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[77],{93:function(e,s,i){e.exports=i.p+"static/media/youtube-jesus-christ-denies-bizarre-sexual-misconduct-allegations-pewdiepie-abuse.d5b9798e.jpg"}}]);
-//# sourceMappingURL=77.36fb2215.chunk.js.map
