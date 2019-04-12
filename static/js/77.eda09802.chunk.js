@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[77],{93:function(o,w,p){o.exports=p.p+"static/media/www-St-Takla-org___Holy-Face-of-Jesus-22.91243717.jpg"}}]);
-//# sourceMappingURL=77.eda09802.chunk.js.map
