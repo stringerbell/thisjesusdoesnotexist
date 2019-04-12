@@ -75,7 +75,8 @@ const list = [
   'white-jesus.jpg',
   'Why-is-Jesus-Christ-Important-in-My-Life-main-1138511.jpg',
   'www-St-Takla-org___Holy-Face-of-Jesus-22.jpg',
-  'youtube-jesus-christ-denies-bizarre-sexual-misconduct-allegations-pewdiepie-abuse.jpg'
+  'youtube-jesus-christ-denies-bizarre-sexual-misconduct-allegations-pewdiepie-abuse.jpg',
+  'white-jesus-black-coffee.jpeg'
 ];
 
 const RandomJesus = () => {
@@ -86,7 +87,7 @@ const RandomJesus = () => {
     );
   }, []);
   if (image) {
-    return <img src={image} alt={"this white jesus does not exist"}/>;
+    return <img src={image} alt={'this white jesus does not exist'} />;
   }
   return null;
 };
