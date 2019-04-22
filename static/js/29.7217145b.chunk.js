@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[29],{45:function(e,o,s){e.exports=s.p+"static/media/Jesus-Of-Nazareth-Photos-from-the-Movie-Jesus-played-by-Robert-Powell-jesus-23779887-640-480.6731a92f.jpg"}}]);
-//# sourceMappingURL=29.7217145b.chunk.js.map

@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{37:function(a,i,o){a.exports=o.p+"static/media/Almeida_J\xfanior_-_Batismo_de_Jesus,_1895.fd6b5aca.JPG"}}]);
-//# sourceMappingURL=4.ff5679ff.chunk.js.map

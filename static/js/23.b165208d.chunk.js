@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{39:function(e,o,p){e.exports=p.p+"static/media/Cefal\xf9_Pantocrator_retouched.e3236eb7.jpg"}}]);
-//# sourceMappingURL=23.b165208d.chunk.js.map

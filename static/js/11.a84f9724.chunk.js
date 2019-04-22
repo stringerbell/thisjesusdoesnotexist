@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{25:function(n,p,i){n.exports=i.p+"static/media/220px-Christ,_by_Heinrich_Hofmann.715a42c1.jpg"}}]);
-//# sourceMappingURL=11.a84f9724.chunk.js.map

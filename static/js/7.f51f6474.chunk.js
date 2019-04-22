@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{21:function(e,i,o){e.exports=o.p+"static/media/180312-jesus-disfigured-book-index.be182d20.jpg"}}]);
-//# sourceMappingURL=7.f51f6474.chunk.js.map

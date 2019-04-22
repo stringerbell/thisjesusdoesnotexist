@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[45],{61:function(c,b,p){c.exports=p.p+"static/media/c496b0c32bedc62fb251c4f14ac4cb6b.56b20ac0.jpg"}}]);
-//# sourceMappingURL=45.86d8c44b.chunk.js.map

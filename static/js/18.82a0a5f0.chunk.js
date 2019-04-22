@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{33:function(n,p,w){n.exports=w.p+"static/media/61030-jesus-painting-wral-fox-news.1200w.tn.44cafc6a.jpg"}}]);
-//# sourceMappingURL=18.82a0a5f0.chunk.js.map
