@@ -37,7 +37,6 @@ const list = [
   'images.jpeg',
   'images (1).jpeg',
   'images (2).jpeg',
-  'images (3).jpeg',
   'images (4).jpeg',
   'jesus.jpg',
   'Jesus (1).jpg',
@@ -63,6 +62,7 @@ const list = [
   'merciful-jesus.jpg',
   'painting-picture-image-jesus-christ-love.jpg',
   'precious-bloodsh1c.jpg',
+  'raisin.jpg',
   'Real-life-experience-of-a-‘Jesus-moment’.jpg',
   'sacred-heart.jpg',
   'Savior.jpeg',
@@ -73,10 +73,10 @@ const list = [
   'unnamed.jpg',
   'unnamed2.jpg',
   'white-jesus.jpg',
+  'white-jesus-black-coffee.jpeg',
   'Why-is-Jesus-Christ-Important-in-My-Life-main-1138511.jpg',
   'www-St-Takla-org___Holy-Face-of-Jesus-22.jpg',
-  'youtube-jesus-christ-denies-bizarre-sexual-misconduct-allegations-pewdiepie-abuse.jpg',
-  'white-jesus-black-coffee.jpeg'
+  'youtube-jesus-christ-denies-bizarre-sexual-misconduct-allegations-pewdiepie-abuse.jpg'
 ];
 
 const RandomJesus = () => {
