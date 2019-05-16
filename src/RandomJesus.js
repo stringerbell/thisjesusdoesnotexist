@@ -33,6 +33,7 @@ const list = [
   'f1177521b55c1d062b2797a2cbb357fb--jesus-pictures-bible-pictures.jpg',
   'GoodFriday.jpeg',
   'Hyla blue largposter copy.jpg',
+  'il_340x270.1654896466_rfyi.jpg',
   'image-20160324-17857-1ix4a7p.jpg',
   'images.jpeg',
   'images (1).jpeg',
